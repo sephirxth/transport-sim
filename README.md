@@ -69,6 +69,17 @@ src/
 └── network.ts    # Network simulation: nodes, cables, packets, pathfinding
 ```
 
+
+## Related Projects
+
+| Project | What It Does |
+|---------|-------------|
+| [SurvivorDemo](https://github.com/sephirxth/SurvivorDemo) | Vampire Survivors-style browser survival game (Unity WebGL) |
+| [WitMani Game Animator](https://github.com/sephirxth/WitMani-game-animator) | Generate game character animations with AI — text to sprite sheet |
+| [LLM Code Test](https://github.com/sephirxth/LLM_code_test) | Benchmark comparing LLMs on code generation quality |
+
+[All projects →](https://github.com/sephirxth)
+
 ## License
 
 ISC
